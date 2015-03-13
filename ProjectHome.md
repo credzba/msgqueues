@@ -1,0 +1,1 @@
+just a sample project using sysv msgqueues and boost archive
